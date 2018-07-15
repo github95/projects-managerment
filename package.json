@@ -1,0 +1,12 @@
+{
+  "name": "project-pm",
+  "version": "1.0.0",
+  "description": "Project management",
+  "main": "server.js",
+  "scripts": {
+    "server": "webpack && babel-node server.js"
+  },
+  "keywords": [],
+  "author": "doanvd",
+  "license": "ISC"
+}
